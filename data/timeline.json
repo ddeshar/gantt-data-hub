@@ -8,7 +8,7 @@
     "start": "2025-06-04",
     "end": "2025-07-30",
     "duration": null,
-    "progress": 0.8,
+    "progress": 0.9,
     "dependencies": null,
     "note": ""
   },
@@ -177,7 +177,7 @@
     "start": "2025-07-01",
     "end": "2025-07-30",
     "duration": null,
-    "progress": 0.0,
+    "progress": 0.20,
     "dependencies": null,
     "note": ""
   },
@@ -203,7 +203,7 @@
     "start": "2025-05-01",
     "end": "2025-08-29",
     "duration": null,
-    "progress": 0.7,
+    "progress": 0.8,
     "dependencies": null,
     "note": ""
   },
@@ -281,9 +281,9 @@
     "start": "2025-06-04",
     "end": "2025-06-20",
     "duration": null,
-    "progress": 0.05,
+    "progress": 0.10,
     "dependencies": null,
-    "note": "รอ material approve"
+    "note": "zone A B เสร็จ วันที่ 20 ที่เหลือวันที่ 4"
   },
   {
     "id": "task-8-3",
