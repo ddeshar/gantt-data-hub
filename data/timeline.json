@@ -8,7 +8,7 @@
     "start": "2025-06-04",
     "end": "2025-07-30",
     "duration": null,
-    "progress": 0.93,
+    "progress": 0.95,
     "dependencies": null,
     "note": ""
   },
@@ -29,20 +29,20 @@
     "id": "task-2-1",
     "parentId": "group-2",
     "sortOrder": 21,
-    "taskName": "shuttle rack Lot 1 10,235 unload & ประกอบ",
+    "taskName": "shuttle rack Lot 1-3 10,235 location unload & ประกอบ",
     "vendor": "AMW",
     "start": "2025-06-16",
     "end": "2025-07-10",
     "duration": null,
-    "progress": 0.2,
+    "progress": 0.17,
     "dependencies": null,
-    "note": ""
+    "note": "ทั้งหมด 6 lot โดย lot 4 มาถึงแล้ว และ lot 2 จะมาถึงระหว่างวันที่ 28–30 มิถุนายน 2568."
   },
   {
     "id": "task-2-2",
     "parentId": "group-2",
     "sortOrder": 22,
-    "taskName": "shuttle rack Lot 2 10,234 unload & ประกอบ",
+    "taskName": "shuttle rack Lot 4-6 10,234 location unload & ประกอบ",
     "vendor": "AMW",
     "start": "2025-07-11",
     "end": "2025-09-30",
@@ -172,7 +172,7 @@
     "id": "group-6",
     "parentId": null,
     "sortOrder": 60,
-    "taskName": "6.Main Power&wiring",
+    "taskName": "6.Main Power & wiring",
     "vendor": "AMW",
     "start": "2025-07-01",
     "end": "2025-07-30",
@@ -201,9 +201,9 @@
     "taskName": "Replace MI10 Interface with new RGV Interface",
     "vendor": "ICAS",
     "start": "2025-05-01",
-    "end": "2025-08-29",
+    "end": "2025-08-11",
     "duration": null,
-    "progress": 0.8,
+    "progress": 0.9,
     "dependencies": null,
     "note": ""
   },
@@ -213,8 +213,8 @@
     "sortOrder": 72,
     "taskName": "Four Way Shuttle Control System",
     "vendor": "ICAS",
-    "start": "2025-05-01",
-    "end": "2025-06-30",
+    "start": "2025-07-01",
+    "end": "2025-09-30",
     "duration": null,
     "progress": 0.0,
     "dependencies": null,
@@ -279,9 +279,9 @@
     "taskName": "Fiber cabling",
     "vendor": "Total IP",
     "start": "2025-06-04",
-    "end": "2025-06-20",
+    "end": "2025-07-04",
     "duration": null,
-    "progress": 0.10,
+    "progress": 0.30,
     "dependencies": null,
     "note": "zone A B เสร็จ วันที่ 20 ที่เหลือวันที่ 4"
   },
@@ -294,9 +294,9 @@
     "start": "2025-05-30",
     "end": "2025-06-17",
     "duration": null,
-    "progress": 0.8,
+    "progress": 0.9,
     "dependencies": null,
-    "note": ""
+    "note": "เหลือเพียงงานต่อไฟฟ้าและเชื่อมต่อเครือข่าย"
   },
   {
     "id": "group-9",
@@ -320,7 +320,7 @@
     "start": "2025-04-10",
     "end": "2025-05-07",
     "duration": null,
-    "progress": 0.8,
+    "progress": 0.95,
     "dependencies": null,
     "note": ""
   },
@@ -411,7 +411,7 @@
     "start": "2025-04-22",
     "end": "2025-07-30",
     "duration": null,
-    "progress": 0.9,
+    "progress": 0.95,
     "dependencies": null,
     "note": ""
   },
@@ -424,7 +424,7 @@
     "start": "2025-04-22",
     "end": "2025-07-30",
     "duration": null,
-    "progress": 0.9,
+    "progress": 0.95,
     "dependencies": null,
     "note": ""
   }
